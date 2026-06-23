@@ -2,4 +2,4 @@ The FiST4CEOS.exe file, available in the for_testing folder, launches the MATLAB
 
 First-time users are required to install the MATLAB Runtime environment using MyAppInstaller_mcr.exe, available at the link below, before running FiST4CEOS.exe.
 
-[Runtime_installer] (https://drive.google.com/file/d/1vYNDekciPqGDGghZ2HKqNVD6B1wlVrdG/view)
+[Runtime_installer](https://drive.google.com/file/d/1vYNDekciPqGDGghZ2HKqNVD6B1wlVrdG/view)
